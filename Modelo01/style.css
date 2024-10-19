@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.pai {
+    background-color: yellow;
+    width: 500px;
+    height: 500px;
+    align-content: center;
+    border: solid;
+}
+.filho1 {
+    background-color: red;
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    align-content: center;
+    border: solid;
+}
+.filho2 {
+    background-color: #00ff73;
+    width: 125px;
+    height: 125px;
+    margin: auto;
+    align-content: center;
+    border: solid;
+}
+.filho3 {
+    background-color: #1900ff;
+    width: 62.5px;
+    height: 62.5px;
+    margin: auto;
+    border: solid;
+}
